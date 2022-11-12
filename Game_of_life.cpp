@@ -11,7 +11,7 @@ int main()
         //game.start();
 
     //Game loop
-    while (!game.getEndGame() == false) {
+    while (game.getEndGame() == false) {
 
 
 
